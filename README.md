@@ -24,19 +24,17 @@ Tecnologías utilizadas:
 - AndroidX
 - Material Design
 
-Un video de la experiencia de usuario:
+# Video experiencia de usuario:
 https://youtu.be/JY4lnErk6I4
 
-Algunas capturas:
-
-- PANTALLA PRINCIPAL: LISTADO
+# PANTALLA PRINCIPAL: LISTADO
 ![Screenshot_20221005-104704_Movie Challenge](https://user-images.githubusercontent.com/100050838/194088409-177cce90-d20f-41dc-84bc-fd32d97fd443.jpg)
 
-- PANTALLA DETALLE: ANTES DEL SCROLL
+# PANTALLA DETALLE: ANTES DEL SCROLL
 ![Screenshot_20221005-104803_Movie Challenge](https://user-images.githubusercontent.com/100050838/194088419-8d0e2b36-bf37-43cf-9887-4c1d7937b45b.jpg)
 
-- PANTALLA DETALLES DESPUÉS DEL SCROLL
+# PANTALLA DETALLES DESPUÉS DEL SCROLL
 ![Screenshot_20221005-104815_Movie Challenge](https://user-images.githubusercontent.com/100050838/194088423-f7b6130b-ef1f-439c-90a4-e296817a7f51.jpg)
 
-- PANTALLA PRINCIPAL: BUSQUEDA EN CURSO 
+# PANTALLA PRINCIPAL: BUSQUEDA EN CURSO 
 ![Screenshot_20221005-104735_Movie Challenge](https://user-images.githubusercontent.com/100050838/194088418-591f7d85-6aa3-41a6-b50a-077713877c07.jpg)
