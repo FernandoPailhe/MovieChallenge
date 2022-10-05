@@ -24,8 +24,7 @@ Tecnologías utilizadas:
 - AndroidX
 - Material Design
 
-# Video experiencia de usuario:
-https://youtu.be/JY4lnErk6I4
+# Video experiencia de usuario: https://youtu.be/JY4lnErk6I4
 
 # PANTALLA PRINCIPAL: LISTADO
 ![Screenshot_20221005-104704_Movie Challenge](https://user-images.githubusercontent.com/100050838/194088409-177cce90-d20f-41dc-84bc-fd32d97fd443.jpg)
