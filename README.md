@@ -1,3 +1,5 @@
+# MOVIE CHALLENGE
+
 Aplicación desarrollada para ingresar a la Aceleración de Alkemy.
 
 La aplicación consume la API de https://www.themoviedb.org/ y presenta el listado de películas populares de forma paginada en el fragmento Home. Tiene desarrollado un sistema de placeholder para las imágenes, lo cual garantiza que la carga de las mismas desde la red no genere algun retardo en el deslizamiento por la pantalla o se interponga en la experiencia de usuario.
